@@ -1,0 +1,68 @@
+Mutex
+Seamphore
+Synchronization
+Atomic data types
+
+
+Synchronization problem
+When more than 1 thread is trying to work on a data, at the same time it can lead to sync problem.
+
+1. Critical Section:
+piece of code Where potential issues might happen, related to data consistency, due to multi-thread trying to modify
+ the data is called Critical Section.
+
+ public  sqaure ()
+{
+  print "Hi"
+ count = getCount();
+ count = count +1;
+ 
+}
+
+
+2. Race Condition:
+	When more than two thread trying  to enter/execute critical senction,
+
+	Adder			Subtractor
+ 	   +1			-1
+ 	+2			-2
+
+3. Premption:
+
+When a prgram currently in critical section and its get prempted.
+
+e.g assume single core CPU
+	Task1
+	print "Hi"
+     count = count +2
+	print "Hellow"
+
+	Task2
+	print "Hello"
+     count = count +2
+	print "Bye"
+If you get prempted by the CPU while executing critical sectioin then it might lead to inconsistent- state.
+
+
+What is the ideal solution
+ properties of a good solutions to sync problem:
+1) Mutually Exclusion:
+   One thread enter critial section at a time.
+  or Critical section mutually exclusive at a time.
+
+
+2)Prgress:
+ System should keep on working and make progress
+Entire system must not hault.
+
+3) Bounded waiting:
+No thread should have infinite waiting
+Every thread should get progress after finte wait.
+Threads will get access to critical section sequencially
+
+4) No Busy waiting:
+	When a thread comes to a critical section it should not keep checking to enter all the time
+instead it shouldget some notification, once the critical section is available.
+
+
+

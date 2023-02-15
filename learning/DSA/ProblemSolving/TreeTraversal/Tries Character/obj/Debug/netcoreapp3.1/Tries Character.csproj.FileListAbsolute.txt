@@ -1,0 +1,14 @@
+E:\Csharp\app\Scaler\TreeTraversal\Tries Character\obj\Debug\netcoreapp3.1\Tries Character.csproj.AssemblyReference.cache
+E:\Csharp\app\Scaler\TreeTraversal\Tries Character\obj\Debug\netcoreapp3.1\Tries Character.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\app\Scaler\TreeTraversal\Tries Character\obj\Debug\netcoreapp3.1\Tries Character.AssemblyInfoInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\Tries Character\obj\Debug\netcoreapp3.1\Tries Character.AssemblyInfo.cs
+E:\Csharp\app\Scaler\TreeTraversal\Tries Character\obj\Debug\netcoreapp3.1\Tries Character.csproj.CoreCompileInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\Tries Character\bin\Debug\netcoreapp3.1\Tries Character.exe
+E:\Csharp\app\Scaler\TreeTraversal\Tries Character\bin\Debug\netcoreapp3.1\Tries Character.deps.json
+E:\Csharp\app\Scaler\TreeTraversal\Tries Character\bin\Debug\netcoreapp3.1\Tries Character.runtimeconfig.json
+E:\Csharp\app\Scaler\TreeTraversal\Tries Character\bin\Debug\netcoreapp3.1\Tries Character.runtimeconfig.dev.json
+E:\Csharp\app\Scaler\TreeTraversal\Tries Character\bin\Debug\netcoreapp3.1\Tries Character.dll
+E:\Csharp\app\Scaler\TreeTraversal\Tries Character\bin\Debug\netcoreapp3.1\Tries Character.pdb
+E:\Csharp\app\Scaler\TreeTraversal\Tries Character\obj\Debug\netcoreapp3.1\Tries Character.dll
+E:\Csharp\app\Scaler\TreeTraversal\Tries Character\obj\Debug\netcoreapp3.1\Tries Character.pdb
+E:\Csharp\app\Scaler\TreeTraversal\Tries Character\obj\Debug\netcoreapp3.1\Tries Character.genruntimeconfig.cache

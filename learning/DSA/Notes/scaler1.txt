@@ -1,0 +1,114 @@
+List<List<int>> SubArrayResult;
+int maxSubArray = int.Min;
+for (i = 0; i< n ; i++)
+	for (j = i; j < n; j++)
+		List<int> subarray;
+		int currentSum = 0;
+
+		for(k = i; k <= j; k++)
+		{
+			subarray.Add(A[k]);
+			currentSum = currentsum + A[k]
+		}
+		maxSubArray = Max(maxSubArray, currentSum);
+		subArrayResult.Add(subarray);
+	}
+}
+
+i 			j		k	subarray	
+0			0		0	 -1
+0			1		1	  -1,4
+0			2		2	  -1,4,2
+
+
+1			1		1	  4
+1			2		1	  4,2	
+
+-1,4,2,8,-2,3
+PF
+PF[] = -1, 3,5,13,11,14
+
+i j	
+0 0	-1
+0 1	-1 + 4 = 3
+
+ sum = PF[0];
+ int maxSum =int.MinValue;
+for (var i = 1; i< n; i++)
+/*	if (i == 0)
+	{
+	 startSum = PF[0];
+	}else{
+	startSum = PF[i - 1];
+*/
+   }
+	sum = Pf[i -1]
+	maxSum = max (maxSum, sum);
+	for (j = i; j < n; j++)
+	{
+		
+		Sum = Sum  + PF[j] - PF[i - 1]
+		maxSum = max (maxSum, sum);
+	}	
+
+ }
+return maxSum;
+
+
+
+Begger outside temple
+A = 5
+B = [[1, 2, 10], [2, 3, 20], [2, 5, 25]]
+
+Brute force
+	Result[A] = 0;
+	
+for (i =0 ; i< B.Length; i++)
+{
+	
+	s = B[i][0];
+	nIndex = B[i][1];
+	p = B[i][2];
+	for (i =s ; i<= nIndex; i++)
+	{
+		Result[i-1] = Result[i-1] + P	
+	}
+
+	 
+
+}
+return Result;
+TC = O(N*N)
+
+1, 	2	,3	,	4	,5
+0,	0,	0,		0,	0		
+10 	0	-10		0	0		10,45,-10,-20,0
+
+0	20	0		-20
+0	25	0		0	0
+
+
+	10,45,-10,-20,0
+PF 	10, 55, 45, 25,25	
+
+
+Optimised
+	Result[A] = 0;
+	
+for (i =0 ; i< B.Length; i++)
+{
+	
+	s = B[i][0];
+	nIndex = B[i][1];
+	p = B[i][2];
+	Result[s-1] = 	Result[s-1] + p;
+	Result[nIndex] = Result[nIndex] - P;
+	 
+
+}
+ 
+for (var i = 1; i < A; i++)
+	Result[i] = Result[i - 1] + Result[i]
+
+return Result;
+

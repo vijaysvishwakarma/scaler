@@ -1,0 +1,14 @@
+E:\Csharp\app\Scaler\TreeTraversal\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.exe
+E:\Csharp\app\Scaler\TreeTraversal\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.deps.json
+E:\Csharp\app\Scaler\TreeTraversal\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.json
+E:\Csharp\app\Scaler\TreeTraversal\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.dev.json
+E:\Csharp\app\Scaler\TreeTraversal\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.dll
+E:\Csharp\app\Scaler\TreeTraversal\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.pdb
+E:\Csharp\app\Scaler\TreeTraversal\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.AssemblyReference.cache
+E:\Csharp\app\Scaler\TreeTraversal\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\app\Scaler\TreeTraversal\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfoInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfo.cs
+E:\Csharp\app\Scaler\TreeTraversal\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.csproj.CoreCompileInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.dll
+E:\Csharp\app\Scaler\TreeTraversal\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.pdb
+E:\Csharp\app\Scaler\TreeTraversal\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.genruntimeconfig.cache

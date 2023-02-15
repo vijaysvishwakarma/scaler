@@ -1,0 +1,56 @@
+sandeep.mahapatra_1@scaler.com
+
+Player
+Game
+Leaderboard
+Tournament
+PlayerMove
+Board
+
+Board
+ List<Cell> cells;
+ 
+ 
+ Cell
+ int row
+ int col
+ CellState state
+ 
+ 
+ CellState
+  Empty
+  Filled
+  
+  
+Player
+int id
+char symbol
+string name  
+PlayerType type
+
+	PlayerType
+		Human
+		EASY_BOT
+		Medium_BOT
+		HARD_BOT
+		
+Game
+	Board board
+	List<Player> 
+	haveState 
+	Player nextPlayerIndex;
+	List<Move> move;
+	
+	
+Move 
+	player player
+	Cell cell
+		
+
+GameWinningStrategry
+Diagonally
+Vertically
+HOrizontally
+ 
+
+BotPlaying

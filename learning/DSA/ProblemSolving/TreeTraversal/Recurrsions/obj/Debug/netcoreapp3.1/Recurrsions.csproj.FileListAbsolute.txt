@@ -1,0 +1,14 @@
+E:\Csharp\app\Scaler\TreeTraversal\Recurrsions\bin\Debug\netcoreapp3.1\Recurrsions.exe
+E:\Csharp\app\Scaler\TreeTraversal\Recurrsions\bin\Debug\netcoreapp3.1\Recurrsions.deps.json
+E:\Csharp\app\Scaler\TreeTraversal\Recurrsions\bin\Debug\netcoreapp3.1\Recurrsions.runtimeconfig.json
+E:\Csharp\app\Scaler\TreeTraversal\Recurrsions\bin\Debug\netcoreapp3.1\Recurrsions.runtimeconfig.dev.json
+E:\Csharp\app\Scaler\TreeTraversal\Recurrsions\bin\Debug\netcoreapp3.1\Recurrsions.dll
+E:\Csharp\app\Scaler\TreeTraversal\Recurrsions\bin\Debug\netcoreapp3.1\Recurrsions.pdb
+E:\Csharp\app\Scaler\TreeTraversal\Recurrsions\obj\Debug\netcoreapp3.1\Recurrsions.csproj.AssemblyReference.cache
+E:\Csharp\app\Scaler\TreeTraversal\Recurrsions\obj\Debug\netcoreapp3.1\Recurrsions.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\app\Scaler\TreeTraversal\Recurrsions\obj\Debug\netcoreapp3.1\Recurrsions.AssemblyInfoInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\Recurrsions\obj\Debug\netcoreapp3.1\Recurrsions.AssemblyInfo.cs
+E:\Csharp\app\Scaler\TreeTraversal\Recurrsions\obj\Debug\netcoreapp3.1\Recurrsions.csproj.CoreCompileInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\Recurrsions\obj\Debug\netcoreapp3.1\Recurrsions.dll
+E:\Csharp\app\Scaler\TreeTraversal\Recurrsions\obj\Debug\netcoreapp3.1\Recurrsions.pdb
+E:\Csharp\app\Scaler\TreeTraversal\Recurrsions\obj\Debug\netcoreapp3.1\Recurrsions.genruntimeconfig.cache

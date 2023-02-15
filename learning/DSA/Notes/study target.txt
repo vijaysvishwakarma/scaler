@@ -1,0 +1,13 @@
+Primary Area
+1. String manipulation (Subset and subsequence)
+2. DP 
+3. Tree  (Trie)
+4. Graph
+5. LinkedList
+6. Binary Search
+7. Bit Manipulation
+
+Seconary Area
+Array 
+Recurrsion
+

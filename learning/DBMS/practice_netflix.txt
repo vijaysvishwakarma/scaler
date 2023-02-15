@@ -1,0 +1,70 @@
+Netflix
+Entities
+Users
+ uId
+ email
+ password
+	
+Profiles
+	pid
+	name
+	Type -> KID Or ADULT
+
+Videos
+title
+description
+
+
+Cast
+actiorId
+name
+
+
+
+
+Video    cast		Actors
+1				M
+M				1
+
+1 - 1 -> primarykey as foreghn key
+1 -> M -> primarykey as foreghn key
+M -> M -> third table 
+
+VideoCast
+vid
+actorId
+
+
+1 - 1
+1 - 2
+2 - 1
+1 - 5
+2- 5
+
+Video 	   VideoWatchProfile		Profile
+1				1		m
+m						1
+
+VideoWatchProfile (m * m)
+vid
+pid
+status  (completed or inprogress)
+timestamp
+
+
+Users 			Profiles
+ 1				M
+ M				1
+						
+UserProfile
+uid
+pid
+
+1 - 1 - kid
+1 - 2  - adult
+	
+
+
+
+
+

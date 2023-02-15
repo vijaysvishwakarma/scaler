@@ -1,0 +1,25 @@
+Tech stack
+Programming
+C#
+DotNet core
+Python
+Flask/Django
+FronEnd
+React
+Vuejs
+
+Database
+
+sql
+// sql server
+
+// no sql
+Mongo - document base structure
+
+Architecture Pattern
+Microservice
+Azure/AWS
+
+Messaging 
+Kafka
+RabbitMQ

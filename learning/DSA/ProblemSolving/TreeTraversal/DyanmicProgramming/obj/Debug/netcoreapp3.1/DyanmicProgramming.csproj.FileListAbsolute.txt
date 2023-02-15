@@ -1,0 +1,14 @@
+E:\Csharp\app\Scaler\TreeTraversal\DyanmicProgramming\bin\Debug\netcoreapp3.1\DyanmicProgramming.exe
+E:\Csharp\app\Scaler\TreeTraversal\DyanmicProgramming\bin\Debug\netcoreapp3.1\DyanmicProgramming.deps.json
+E:\Csharp\app\Scaler\TreeTraversal\DyanmicProgramming\bin\Debug\netcoreapp3.1\DyanmicProgramming.runtimeconfig.json
+E:\Csharp\app\Scaler\TreeTraversal\DyanmicProgramming\bin\Debug\netcoreapp3.1\DyanmicProgramming.runtimeconfig.dev.json
+E:\Csharp\app\Scaler\TreeTraversal\DyanmicProgramming\bin\Debug\netcoreapp3.1\DyanmicProgramming.dll
+E:\Csharp\app\Scaler\TreeTraversal\DyanmicProgramming\bin\Debug\netcoreapp3.1\DyanmicProgramming.pdb
+E:\Csharp\app\Scaler\TreeTraversal\DyanmicProgramming\obj\Debug\netcoreapp3.1\DyanmicProgramming.csproj.AssemblyReference.cache
+E:\Csharp\app\Scaler\TreeTraversal\DyanmicProgramming\obj\Debug\netcoreapp3.1\DyanmicProgramming.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\app\Scaler\TreeTraversal\DyanmicProgramming\obj\Debug\netcoreapp3.1\DyanmicProgramming.AssemblyInfoInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\DyanmicProgramming\obj\Debug\netcoreapp3.1\DyanmicProgramming.AssemblyInfo.cs
+E:\Csharp\app\Scaler\TreeTraversal\DyanmicProgramming\obj\Debug\netcoreapp3.1\DyanmicProgramming.csproj.CoreCompileInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\DyanmicProgramming\obj\Debug\netcoreapp3.1\DyanmicProgramming.dll
+E:\Csharp\app\Scaler\TreeTraversal\DyanmicProgramming\obj\Debug\netcoreapp3.1\DyanmicProgramming.pdb
+E:\Csharp\app\Scaler\TreeTraversal\DyanmicProgramming\obj\Debug\netcoreapp3.1\DyanmicProgramming.genruntimeconfig.cache

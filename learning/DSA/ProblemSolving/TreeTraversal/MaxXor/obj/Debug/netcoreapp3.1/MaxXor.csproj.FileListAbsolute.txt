@@ -1,0 +1,14 @@
+E:\Csharp\app\Scaler\TreeTraversal\MaxXor\bin\Debug\netcoreapp3.1\MaxXor.exe
+E:\Csharp\app\Scaler\TreeTraversal\MaxXor\bin\Debug\netcoreapp3.1\MaxXor.deps.json
+E:\Csharp\app\Scaler\TreeTraversal\MaxXor\bin\Debug\netcoreapp3.1\MaxXor.runtimeconfig.json
+E:\Csharp\app\Scaler\TreeTraversal\MaxXor\bin\Debug\netcoreapp3.1\MaxXor.runtimeconfig.dev.json
+E:\Csharp\app\Scaler\TreeTraversal\MaxXor\bin\Debug\netcoreapp3.1\MaxXor.dll
+E:\Csharp\app\Scaler\TreeTraversal\MaxXor\bin\Debug\netcoreapp3.1\MaxXor.pdb
+E:\Csharp\app\Scaler\TreeTraversal\MaxXor\obj\Debug\netcoreapp3.1\MaxXor.csproj.AssemblyReference.cache
+E:\Csharp\app\Scaler\TreeTraversal\MaxXor\obj\Debug\netcoreapp3.1\MaxXor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\app\Scaler\TreeTraversal\MaxXor\obj\Debug\netcoreapp3.1\MaxXor.AssemblyInfoInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\MaxXor\obj\Debug\netcoreapp3.1\MaxXor.AssemblyInfo.cs
+E:\Csharp\app\Scaler\TreeTraversal\MaxXor\obj\Debug\netcoreapp3.1\MaxXor.csproj.CoreCompileInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\MaxXor\obj\Debug\netcoreapp3.1\MaxXor.dll
+E:\Csharp\app\Scaler\TreeTraversal\MaxXor\obj\Debug\netcoreapp3.1\MaxXor.pdb
+E:\Csharp\app\Scaler\TreeTraversal\MaxXor\obj\Debug\netcoreapp3.1\MaxXor.genruntimeconfig.cache

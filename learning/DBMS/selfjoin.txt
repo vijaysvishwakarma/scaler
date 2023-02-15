@@ -1,0 +1,4 @@
+select s1.*
+from students s1 self join students s2
+on s1.psp > s2.psp 
+where  s1.psp >  87 and s1.id = 18

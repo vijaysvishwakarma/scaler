@@ -1,0 +1,10 @@
+Set value
+3 7 
+ 
+k - A[0] existing in set
+return true
+else
+check element present or not
+put in set
+
+

@@ -1,0 +1,15 @@
+E:\Csharp\app\Scaler\TreeTraversal\TreeTraversal\bin\Debug\net6.0\TreeTraversal.exe
+E:\Csharp\app\Scaler\TreeTraversal\TreeTraversal\bin\Debug\net6.0\TreeTraversal.deps.json
+E:\Csharp\app\Scaler\TreeTraversal\TreeTraversal\bin\Debug\net6.0\TreeTraversal.runtimeconfig.json
+E:\Csharp\app\Scaler\TreeTraversal\TreeTraversal\bin\Debug\net6.0\TreeTraversal.dll
+E:\Csharp\app\Scaler\TreeTraversal\TreeTraversal\bin\Debug\net6.0\TreeTraversal.pdb
+E:\Csharp\app\Scaler\TreeTraversal\TreeTraversal\obj\Debug\net6.0\TreeTraversal.csproj.AssemblyReference.cache
+E:\Csharp\app\Scaler\TreeTraversal\TreeTraversal\obj\Debug\net6.0\TreeTraversal.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\app\Scaler\TreeTraversal\TreeTraversal\obj\Debug\net6.0\TreeTraversal.AssemblyInfoInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\TreeTraversal\obj\Debug\net6.0\TreeTraversal.AssemblyInfo.cs
+E:\Csharp\app\Scaler\TreeTraversal\TreeTraversal\obj\Debug\net6.0\TreeTraversal.csproj.CoreCompileInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\TreeTraversal\obj\Debug\net6.0\TreeTraversal.dll
+E:\Csharp\app\Scaler\TreeTraversal\TreeTraversal\obj\Debug\net6.0\refint\TreeTraversal.dll
+E:\Csharp\app\Scaler\TreeTraversal\TreeTraversal\obj\Debug\net6.0\TreeTraversal.pdb
+E:\Csharp\app\Scaler\TreeTraversal\TreeTraversal\obj\Debug\net6.0\TreeTraversal.genruntimeconfig.cache
+E:\Csharp\app\Scaler\TreeTraversal\TreeTraversal\obj\Debug\net6.0\ref\TreeTraversal.dll

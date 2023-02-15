@@ -1,0 +1,14 @@
+E:\Csharp\app\Scaler\TreeTraversal\TwoDArray\obj\Debug\netcoreapp3.1\TwoDArrays.csproj.AssemblyReference.cache
+E:\Csharp\app\Scaler\TreeTraversal\TwoDArray\obj\Debug\netcoreapp3.1\TwoDArrays.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\app\Scaler\TreeTraversal\TwoDArray\obj\Debug\netcoreapp3.1\TwoDArrays.AssemblyInfoInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\TwoDArray\obj\Debug\netcoreapp3.1\TwoDArrays.AssemblyInfo.cs
+E:\Csharp\app\Scaler\TreeTraversal\TwoDArray\obj\Debug\netcoreapp3.1\TwoDArrays.csproj.CoreCompileInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\TwoDArray\bin\Debug\netcoreapp3.1\TwoDArrays.exe
+E:\Csharp\app\Scaler\TreeTraversal\TwoDArray\bin\Debug\netcoreapp3.1\TwoDArrays.deps.json
+E:\Csharp\app\Scaler\TreeTraversal\TwoDArray\bin\Debug\netcoreapp3.1\TwoDArrays.runtimeconfig.json
+E:\Csharp\app\Scaler\TreeTraversal\TwoDArray\bin\Debug\netcoreapp3.1\TwoDArrays.runtimeconfig.dev.json
+E:\Csharp\app\Scaler\TreeTraversal\TwoDArray\bin\Debug\netcoreapp3.1\TwoDArrays.dll
+E:\Csharp\app\Scaler\TreeTraversal\TwoDArray\bin\Debug\netcoreapp3.1\TwoDArrays.pdb
+E:\Csharp\app\Scaler\TreeTraversal\TwoDArray\obj\Debug\netcoreapp3.1\TwoDArrays.dll
+E:\Csharp\app\Scaler\TreeTraversal\TwoDArray\obj\Debug\netcoreapp3.1\TwoDArrays.pdb
+E:\Csharp\app\Scaler\TreeTraversal\TwoDArray\obj\Debug\netcoreapp3.1\TwoDArrays.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\Csharp\app\Scaler\TreeTraversal\Backtracking\bin\Debug\netcoreapp3.1\Backtracking.exe
+E:\Csharp\app\Scaler\TreeTraversal\Backtracking\bin\Debug\netcoreapp3.1\Backtracking.deps.json
+E:\Csharp\app\Scaler\TreeTraversal\Backtracking\bin\Debug\netcoreapp3.1\Backtracking.runtimeconfig.json
+E:\Csharp\app\Scaler\TreeTraversal\Backtracking\bin\Debug\netcoreapp3.1\Backtracking.runtimeconfig.dev.json
+E:\Csharp\app\Scaler\TreeTraversal\Backtracking\bin\Debug\netcoreapp3.1\Backtracking.dll
+E:\Csharp\app\Scaler\TreeTraversal\Backtracking\bin\Debug\netcoreapp3.1\Backtracking.pdb
+E:\Csharp\app\Scaler\TreeTraversal\Backtracking\obj\Debug\netcoreapp3.1\Backtracking.csproj.AssemblyReference.cache
+E:\Csharp\app\Scaler\TreeTraversal\Backtracking\obj\Debug\netcoreapp3.1\Backtracking.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\app\Scaler\TreeTraversal\Backtracking\obj\Debug\netcoreapp3.1\Backtracking.AssemblyInfoInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\Backtracking\obj\Debug\netcoreapp3.1\Backtracking.AssemblyInfo.cs
+E:\Csharp\app\Scaler\TreeTraversal\Backtracking\obj\Debug\netcoreapp3.1\Backtracking.csproj.CoreCompileInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\Backtracking\obj\Debug\netcoreapp3.1\Backtracking.dll
+E:\Csharp\app\Scaler\TreeTraversal\Backtracking\obj\Debug\netcoreapp3.1\Backtracking.pdb
+E:\Csharp\app\Scaler\TreeTraversal\Backtracking\obj\Debug\netcoreapp3.1\Backtracking.genruntimeconfig.cache

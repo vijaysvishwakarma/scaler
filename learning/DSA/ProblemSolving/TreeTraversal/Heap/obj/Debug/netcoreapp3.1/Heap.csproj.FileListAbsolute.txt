@@ -1,0 +1,14 @@
+E:\Csharp\app\Scaler\TreeTraversal\Heap\obj\Debug\netcoreapp3.1\Heap.csproj.AssemblyReference.cache
+E:\Csharp\app\Scaler\TreeTraversal\Heap\obj\Debug\netcoreapp3.1\Heap.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\app\Scaler\TreeTraversal\Heap\obj\Debug\netcoreapp3.1\Heap.AssemblyInfoInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\Heap\obj\Debug\netcoreapp3.1\Heap.AssemblyInfo.cs
+E:\Csharp\app\Scaler\TreeTraversal\Heap\obj\Debug\netcoreapp3.1\Heap.csproj.CoreCompileInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\Heap\bin\Debug\netcoreapp3.1\Heap.exe
+E:\Csharp\app\Scaler\TreeTraversal\Heap\bin\Debug\netcoreapp3.1\Heap.deps.json
+E:\Csharp\app\Scaler\TreeTraversal\Heap\bin\Debug\netcoreapp3.1\Heap.runtimeconfig.json
+E:\Csharp\app\Scaler\TreeTraversal\Heap\bin\Debug\netcoreapp3.1\Heap.runtimeconfig.dev.json
+E:\Csharp\app\Scaler\TreeTraversal\Heap\bin\Debug\netcoreapp3.1\Heap.dll
+E:\Csharp\app\Scaler\TreeTraversal\Heap\bin\Debug\netcoreapp3.1\Heap.pdb
+E:\Csharp\app\Scaler\TreeTraversal\Heap\obj\Debug\netcoreapp3.1\Heap.dll
+E:\Csharp\app\Scaler\TreeTraversal\Heap\obj\Debug\netcoreapp3.1\Heap.pdb
+E:\Csharp\app\Scaler\TreeTraversal\Heap\obj\Debug\netcoreapp3.1\Heap.genruntimeconfig.cache

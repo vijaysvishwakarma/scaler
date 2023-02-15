@@ -1,0 +1,36 @@
+3 6 1 2 9 7
+
+head
+temp = head
+prev = null
+currNode = null;
+
+while(temp->Next != null)
+{
+ currNode = temp; // currNode = n0
+ temp = currNode->next; // temp = n1
+ currNode-Next = prev; // currNode->next = null i.e No0 -> next = null
+ prev = currNode // prev = no 
+ 
+}
+temp.next = prev;
+head = temp;
+
+
+Node temp= singleLinkedList.head;
+            if (temp == null)
+                return singleLinkedList;
+
+            Node prev = null;
+            Node curr;
+            while(temp.next!=null)
+            {
+                curr = temp;
+                temp = curr.next;
+                curr.next = prev;
+                prev = curr;
+            }
+            temp.next = prev;
+            singleLinkedList.head = temp;
+
+            return singleLinkedList;

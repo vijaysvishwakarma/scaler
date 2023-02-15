@@ -1,0 +1,14 @@
+E:\Csharp\app\Scaler\TreeTraversal\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.exe
+E:\Csharp\app\Scaler\TreeTraversal\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.deps.json
+E:\Csharp\app\Scaler\TreeTraversal\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.json
+E:\Csharp\app\Scaler\TreeTraversal\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.runtimeconfig.dev.json
+E:\Csharp\app\Scaler\TreeTraversal\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.dll
+E:\Csharp\app\Scaler\TreeTraversal\LinkedList\bin\Debug\netcoreapp3.1\LinkedList.pdb
+E:\Csharp\app\Scaler\TreeTraversal\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.AssemblyReference.cache
+E:\Csharp\app\Scaler\TreeTraversal\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\app\Scaler\TreeTraversal\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfoInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.AssemblyInfo.cs
+E:\Csharp\app\Scaler\TreeTraversal\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.csproj.CoreCompileInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.dll
+E:\Csharp\app\Scaler\TreeTraversal\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.pdb
+E:\Csharp\app\Scaler\TreeTraversal\LinkedList\obj\Debug\netcoreapp3.1\LinkedList.genruntimeconfig.cache

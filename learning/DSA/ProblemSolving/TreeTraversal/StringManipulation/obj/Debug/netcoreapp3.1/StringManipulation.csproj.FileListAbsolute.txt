@@ -1,0 +1,14 @@
+E:\Csharp\app\Scaler\TreeTraversal\StringManipulation\obj\Debug\netcoreapp3.1\StringManipulation.csproj.AssemblyReference.cache
+E:\Csharp\app\Scaler\TreeTraversal\StringManipulation\obj\Debug\netcoreapp3.1\StringManipulation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\app\Scaler\TreeTraversal\StringManipulation\obj\Debug\netcoreapp3.1\StringManipulation.AssemblyInfoInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\StringManipulation\obj\Debug\netcoreapp3.1\StringManipulation.AssemblyInfo.cs
+E:\Csharp\app\Scaler\TreeTraversal\StringManipulation\obj\Debug\netcoreapp3.1\StringManipulation.csproj.CoreCompileInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\StringManipulation\bin\Debug\netcoreapp3.1\StringManipulation.exe
+E:\Csharp\app\Scaler\TreeTraversal\StringManipulation\bin\Debug\netcoreapp3.1\StringManipulation.deps.json
+E:\Csharp\app\Scaler\TreeTraversal\StringManipulation\bin\Debug\netcoreapp3.1\StringManipulation.runtimeconfig.json
+E:\Csharp\app\Scaler\TreeTraversal\StringManipulation\bin\Debug\netcoreapp3.1\StringManipulation.runtimeconfig.dev.json
+E:\Csharp\app\Scaler\TreeTraversal\StringManipulation\bin\Debug\netcoreapp3.1\StringManipulation.dll
+E:\Csharp\app\Scaler\TreeTraversal\StringManipulation\bin\Debug\netcoreapp3.1\StringManipulation.pdb
+E:\Csharp\app\Scaler\TreeTraversal\StringManipulation\obj\Debug\netcoreapp3.1\StringManipulation.dll
+E:\Csharp\app\Scaler\TreeTraversal\StringManipulation\obj\Debug\netcoreapp3.1\StringManipulation.pdb
+E:\Csharp\app\Scaler\TreeTraversal\StringManipulation\obj\Debug\netcoreapp3.1\StringManipulation.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+Draw a use case diagram for scalars plateform:
+1. Atlest 5 use cases
+2. Atleast 2 actors
+3. Atleast 1 use case should include another use case - i.e includes
+4. Atleast 1 use case should have variants i.e extends

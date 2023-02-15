@@ -1,0 +1,14 @@
+Revision for Next
+
+Contribution in 1D and 2D
+submatrix 2d array
+
+Rotation 90degree in 2D
+
+Rain water trap
+
+Transpose
+
+Spiral matrix
+
+

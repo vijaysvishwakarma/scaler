@@ -1,0 +1,14 @@
+E:\Csharp\app\Scaler\TreeTraversal\Sorting\obj\Debug\netcoreapp3.1\Sorting.csproj.AssemblyReference.cache
+E:\Csharp\app\Scaler\TreeTraversal\Sorting\obj\Debug\netcoreapp3.1\Sorting.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\app\Scaler\TreeTraversal\Sorting\obj\Debug\netcoreapp3.1\Sorting.AssemblyInfoInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\Sorting\obj\Debug\netcoreapp3.1\Sorting.AssemblyInfo.cs
+E:\Csharp\app\Scaler\TreeTraversal\Sorting\obj\Debug\netcoreapp3.1\Sorting.csproj.CoreCompileInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\Sorting\bin\Debug\netcoreapp3.1\Sorting.exe
+E:\Csharp\app\Scaler\TreeTraversal\Sorting\bin\Debug\netcoreapp3.1\Sorting.deps.json
+E:\Csharp\app\Scaler\TreeTraversal\Sorting\bin\Debug\netcoreapp3.1\Sorting.runtimeconfig.json
+E:\Csharp\app\Scaler\TreeTraversal\Sorting\bin\Debug\netcoreapp3.1\Sorting.runtimeconfig.dev.json
+E:\Csharp\app\Scaler\TreeTraversal\Sorting\bin\Debug\netcoreapp3.1\Sorting.dll
+E:\Csharp\app\Scaler\TreeTraversal\Sorting\bin\Debug\netcoreapp3.1\Sorting.pdb
+E:\Csharp\app\Scaler\TreeTraversal\Sorting\obj\Debug\netcoreapp3.1\Sorting.dll
+E:\Csharp\app\Scaler\TreeTraversal\Sorting\obj\Debug\netcoreapp3.1\Sorting.pdb
+E:\Csharp\app\Scaler\TreeTraversal\Sorting\obj\Debug\netcoreapp3.1\Sorting.genruntimeconfig.cache

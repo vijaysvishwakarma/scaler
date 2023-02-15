@@ -1,0 +1,14 @@
+E:\Csharp\app\Scaler\TreeTraversal\GreedyAlgorithms\obj\Debug\netcoreapp3.1\GreedyAlgorithms.csproj.AssemblyReference.cache
+E:\Csharp\app\Scaler\TreeTraversal\GreedyAlgorithms\obj\Debug\netcoreapp3.1\GreedyAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\app\Scaler\TreeTraversal\GreedyAlgorithms\obj\Debug\netcoreapp3.1\GreedyAlgorithms.AssemblyInfoInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\GreedyAlgorithms\obj\Debug\netcoreapp3.1\GreedyAlgorithms.AssemblyInfo.cs
+E:\Csharp\app\Scaler\TreeTraversal\GreedyAlgorithms\obj\Debug\netcoreapp3.1\GreedyAlgorithms.csproj.CoreCompileInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\GreedyAlgorithms\bin\Debug\netcoreapp3.1\GreedyAlgorithms.exe
+E:\Csharp\app\Scaler\TreeTraversal\GreedyAlgorithms\bin\Debug\netcoreapp3.1\GreedyAlgorithms.deps.json
+E:\Csharp\app\Scaler\TreeTraversal\GreedyAlgorithms\bin\Debug\netcoreapp3.1\GreedyAlgorithms.runtimeconfig.json
+E:\Csharp\app\Scaler\TreeTraversal\GreedyAlgorithms\bin\Debug\netcoreapp3.1\GreedyAlgorithms.runtimeconfig.dev.json
+E:\Csharp\app\Scaler\TreeTraversal\GreedyAlgorithms\bin\Debug\netcoreapp3.1\GreedyAlgorithms.dll
+E:\Csharp\app\Scaler\TreeTraversal\GreedyAlgorithms\bin\Debug\netcoreapp3.1\GreedyAlgorithms.pdb
+E:\Csharp\app\Scaler\TreeTraversal\GreedyAlgorithms\obj\Debug\netcoreapp3.1\GreedyAlgorithms.dll
+E:\Csharp\app\Scaler\TreeTraversal\GreedyAlgorithms\obj\Debug\netcoreapp3.1\GreedyAlgorithms.pdb
+E:\Csharp\app\Scaler\TreeTraversal\GreedyAlgorithms\obj\Debug\netcoreapp3.1\GreedyAlgorithms.genruntimeconfig.cache

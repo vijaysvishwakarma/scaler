@@ -1,0 +1,14 @@
+E:\Csharp\app\Scaler\TreeTraversal\Sum of Common Node\bin\Debug\netcoreapp3.1\Sum of Common Node.exe
+E:\Csharp\app\Scaler\TreeTraversal\Sum of Common Node\bin\Debug\netcoreapp3.1\Sum of Common Node.deps.json
+E:\Csharp\app\Scaler\TreeTraversal\Sum of Common Node\bin\Debug\netcoreapp3.1\Sum of Common Node.runtimeconfig.json
+E:\Csharp\app\Scaler\TreeTraversal\Sum of Common Node\bin\Debug\netcoreapp3.1\Sum of Common Node.runtimeconfig.dev.json
+E:\Csharp\app\Scaler\TreeTraversal\Sum of Common Node\bin\Debug\netcoreapp3.1\Sum of Common Node.dll
+E:\Csharp\app\Scaler\TreeTraversal\Sum of Common Node\bin\Debug\netcoreapp3.1\Sum of Common Node.pdb
+E:\Csharp\app\Scaler\TreeTraversal\Sum of Common Node\obj\Debug\netcoreapp3.1\Sum of Common Node.csproj.AssemblyReference.cache
+E:\Csharp\app\Scaler\TreeTraversal\Sum of Common Node\obj\Debug\netcoreapp3.1\Sum of Common Node.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\app\Scaler\TreeTraversal\Sum of Common Node\obj\Debug\netcoreapp3.1\Sum of Common Node.AssemblyInfoInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\Sum of Common Node\obj\Debug\netcoreapp3.1\Sum of Common Node.AssemblyInfo.cs
+E:\Csharp\app\Scaler\TreeTraversal\Sum of Common Node\obj\Debug\netcoreapp3.1\Sum of Common Node.csproj.CoreCompileInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\Sum of Common Node\obj\Debug\netcoreapp3.1\Sum of Common Node.dll
+E:\Csharp\app\Scaler\TreeTraversal\Sum of Common Node\obj\Debug\netcoreapp3.1\Sum of Common Node.pdb
+E:\Csharp\app\Scaler\TreeTraversal\Sum of Common Node\obj\Debug\netcoreapp3.1\Sum of Common Node.genruntimeconfig.cache

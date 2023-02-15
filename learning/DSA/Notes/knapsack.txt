@@ -1,0 +1,27 @@
+int knapsack(int []w, int []v, int index, int k)
+{
+	var pick = int.Min, nonpick= int.Min;
+	if (index < 0 ||  k <= 0)
+	return 0;
+  for(var index = 1; index< w.Lenght; index++)
+{ 
+	if (w[index] <= k)
+	{
+		pick = v[index] + knapsack(w,v,index-1, k- w[index]);
+		int a = v[index] + dp[index-1, k - w[index]]
+	}
+	else{
+		 pick = knapsack(w, v, index -1, k);
+		
+	}
+	nonpick = 0 + knapsack(w, v, index -1, k)
+	int b = dp[index-1, k];
+	dp[index, k] = Math.Max(a, b);
+//	return Math.Max(pick, nonpick);
+}
+}
+
+O(N) = 2^n;
+S(N) =  N
+
+dp[n + 1, k+1] = {0}

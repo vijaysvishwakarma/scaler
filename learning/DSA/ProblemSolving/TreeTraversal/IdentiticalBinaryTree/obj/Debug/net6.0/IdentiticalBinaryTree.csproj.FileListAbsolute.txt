@@ -1,0 +1,15 @@
+E:\Csharp\app\Scaler\TreeTraversal\IdentiticalBinaryTree\obj\Debug\net6.0\IdentiticalBinaryTree.csproj.AssemblyReference.cache
+E:\Csharp\app\Scaler\TreeTraversal\IdentiticalBinaryTree\obj\Debug\net6.0\IdentiticalBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+E:\Csharp\app\Scaler\TreeTraversal\IdentiticalBinaryTree\obj\Debug\net6.0\IdentiticalBinaryTree.AssemblyInfoInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\IdentiticalBinaryTree\obj\Debug\net6.0\IdentiticalBinaryTree.AssemblyInfo.cs
+E:\Csharp\app\Scaler\TreeTraversal\IdentiticalBinaryTree\obj\Debug\net6.0\IdentiticalBinaryTree.csproj.CoreCompileInputs.cache
+E:\Csharp\app\Scaler\TreeTraversal\IdentiticalBinaryTree\bin\Debug\net6.0\IdentiticalBinaryTree.exe
+E:\Csharp\app\Scaler\TreeTraversal\IdentiticalBinaryTree\bin\Debug\net6.0\IdentiticalBinaryTree.deps.json
+E:\Csharp\app\Scaler\TreeTraversal\IdentiticalBinaryTree\bin\Debug\net6.0\IdentiticalBinaryTree.runtimeconfig.json
+E:\Csharp\app\Scaler\TreeTraversal\IdentiticalBinaryTree\bin\Debug\net6.0\IdentiticalBinaryTree.dll
+E:\Csharp\app\Scaler\TreeTraversal\IdentiticalBinaryTree\bin\Debug\net6.0\IdentiticalBinaryTree.pdb
+E:\Csharp\app\Scaler\TreeTraversal\IdentiticalBinaryTree\obj\Debug\net6.0\IdentiticalBinaryTree.dll
+E:\Csharp\app\Scaler\TreeTraversal\IdentiticalBinaryTree\obj\Debug\net6.0\refint\IdentiticalBinaryTree.dll
+E:\Csharp\app\Scaler\TreeTraversal\IdentiticalBinaryTree\obj\Debug\net6.0\IdentiticalBinaryTree.pdb
+E:\Csharp\app\Scaler\TreeTraversal\IdentiticalBinaryTree\obj\Debug\net6.0\IdentiticalBinaryTree.genruntimeconfig.cache
+E:\Csharp\app\Scaler\TreeTraversal\IdentiticalBinaryTree\obj\Debug\net6.0\ref\IdentiticalBinaryTree.dll

@@ -1,0 +1,12 @@
+	Language:
+Delegate and Event
+Garbase collector
+Collections
+Static and Singleton difference
+Oops- abstract and interface
+Relection
+IDisposable, using, finalize
+Solid principle- Liskov substitution
+Abstract and Abstract facotory difference and code
+Thread, Task and TPl
+

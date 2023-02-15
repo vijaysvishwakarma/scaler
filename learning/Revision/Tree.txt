@@ -1,0 +1,28 @@
+inorder[] = {6,1,3,2}, 
+postorder[] = {6,3,2,1}
+
+lastIndex = postorder.count - 1;
+
+CreateTree(lastIndex);
+
+
+
+CreateTree(lastIndex, startIndex, endIndex)
+{
+	if (startIndex > endIndex || lastIndex == 0)
+		return;
+	ele = postorder[lastIndex];
+	index = findIndex(ele);
+	Node root = new Node(ele);
+     startIndex = index+1, endIndex = inorder.Count  
+	root.right = CreateTree(lastIndex-1, startIndex, endIndex)
+     startIndex = 0, endIndex = inorder.Count  
+	root.left = CreateTree(lastIndex-1, startIndex, endIndex)
+	return root;
+
+}
+
+findIndex(ele)
+{
+ return index // find element in loop, return index
+}
